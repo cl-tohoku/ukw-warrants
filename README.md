@@ -43,7 +43,7 @@ From the example above, we can construct this statement which acts as the warran
 **`claim_keyword`** **`hidden_reasoning_keyword`** **`premise_keyword`** 
 i.e. 
 
-Abolishing zoos prevents a mental decline of these animals because animals did not ask to be captive and gawked at.
+> Abolishing zoos prevents a mental decline of these animals because animals did not ask to be captive and gawked at.
 
 ---
 
